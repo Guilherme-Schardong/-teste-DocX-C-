@@ -1,4 +1,7 @@
 # -teste-DocX-C-
+
+o arquivo esta compactado por motivos de tamanho
+
 o arquivo é um web que le o arquivo do local especificado e o modifica e gera um novo arquivo
 
 basta dentro do visual etudio executar o index no navegador de sua preferenci
